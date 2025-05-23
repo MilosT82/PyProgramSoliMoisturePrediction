@@ -24,9 +24,7 @@
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 # PyProgramSoliMoisturePrediction
-This Python program is used for predictive analytics estimation of the river flows in Serbia. This code applies Mann - Kendall test which works for all distributions to analyze time series data for trends. If there is no trend, then probability value p is greater than 0.05, otherwise, there is a trend in time series with significant level (p-value) less or equal than 0.05 and trend could be positive or negative. 
-
-With respect to Mann-Kendall test, the Theil-Sen estimator is used to calculate trend intercept and slope. For this purpose is used `pyMannkendal` package.
+This repository contains a Python program developed by student Pavlović Marko. The application of the machine learning algorithm for predicting soil moisture is presented.
 
 
 ## Input datasets
