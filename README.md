@@ -23,7 +23,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-# PyProgramSoliMoisturePrediction
+# PyProgramSoilMoisturePrediction
 This repository contains a Python program developed by student Pavlović Marko. The application of the machine learning algorithm for predicting soil moisture is presented.
 
 
