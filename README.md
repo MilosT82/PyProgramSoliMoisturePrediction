@@ -47,12 +47,6 @@ For running program the following packages are required:
 ## Workmates
 
 On this project I have worked with:
-- [Milan Stojkovic, PhD](https://www.linkedin.com/in/ninoslava-tihi-8507a615/)
-- [Ivana Krtolica, PhD](https://www.linkedin.com/in/ivana-krtolica-96437a24b/)
-- Stevan Prohaska, PhD
-## Workmates
-
-On this project I have worked with:
 - [Marko Pavlovic]
 - [Ninoslava Tihi](https://www.linkedin.com/in/ninoslava-tihi-8507a615/)
 - [Srdjan Popov](https://www.linkedin.com/in/professor-dr-srdjan-popov-3286687/)
